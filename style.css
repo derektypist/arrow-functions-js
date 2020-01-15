@@ -1,0 +1,16 @@
+/* Body */
+
+body {
+    font-family: "Roboto", Arial, Verdana, sans-serif;
+}
+
+/* Heading H1 */
+h1 {
+    color: purple;
+    text-align: center;
+}
+
+/* Paragraphs */
+p {
+    color: green;
+}
