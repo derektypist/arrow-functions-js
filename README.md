@@ -1,14 +1,14 @@
-         ___        ______     ____ _                 _  ___  
-        / \ \      / / ___|   / ___| | ___  _   _  __| |/ _ \ 
-       / _ \ \ /\ / /\___ \  | |   | |/ _ \| | | |/ _` | (_) |
-      / ___ \ V  V /  ___) | | |___| | (_) | |_| | (_| |\__, |
-     /_/   \_\_/\_/  |____/   \____|_|\___/ \__,_|\__,_|  /_/ 
- ----------------------------------------------------------------- 
+# Arrow Functions in JavaScript
 
+Welcome to Arrow Functions in JavaScript.  The purpose of the project is to investigate the arrow functions in JavaScript.
+Two functions - sum and treble are provided.
 
-Hi there! Welcome to AWS Cloud9!
+## UX
 
-To get started, create some files, play with the terminal,
-or visit https://docs.aws.amazon.com/console/cloud9/ for our documentation.
+There is another way to write functions in JavaScript.  This is in the form of arrow functions.  Use the const keyword.
 
-Happy coding!
+    const sum = (num1, num2) => {
+        return num1 + num2;
+    };
+
+As a user, I expect to view whole numbers and real numbers for each function.
