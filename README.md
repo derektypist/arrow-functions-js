@@ -12,3 +12,15 @@ There is another way to write functions in JavaScript.  This is in the form of a
     };
 
 As a user, I expect to view whole numbers and real numbers for each function.
+
+## Features
+
+Displaying the sum of two numbers and the trebling of 1 number.
+
+## Technologies
+
+This project uses HTML5, CSS3 and JavaScript (ES6).
+
+## Testing
+
+Each function has different parameters (e.g. the sum function uses parameters 10, 20 and 4.5, 3.2).
